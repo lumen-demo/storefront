@@ -1,0 +1,15 @@
+{
+  "name": "@lumen-supply/storefront",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Lumen Supply storefront checkout service",
+  "main": "src/checkout.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "dependencies": {
+    "lodash": "4.17.4",
+    "minimist": "1.2.0",
+    "node-fetch": "2.6.0"
+  }
+}
